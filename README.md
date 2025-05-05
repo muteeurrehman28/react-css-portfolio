@@ -96,26 +96,6 @@ src/
 ├── index.css
 ```
 
-## Submission Guidelines
-
-* **Google Classroom**: Submit a ZIP file excluding `node_modules`. Include `.gitignore`.
-* **GitHub**: Public repository at [https://github.com/muteeurrehman28/react-css-portfolio](https://github.com/muteeurrehman28/react-css-portfolio) with meaningful commit messages (e.g., `feat: add responsive header`, `style: implement theme toggle`).
-* **Testing**: Verify responsiveness using Chrome DevTools (mobile and desktop breakpoints).
-
-## Notes
-
-* **Assets**: Replace placeholder images in `src/assets/` with optimized images (e.g., PNG/JPEG <200KB).
-* **Customization**: Refer to MUI documentation for advanced component styling.
-* **Performance**: Lazy-loaded routes and memoized validation schemas optimize load times.
-* **Git Hygiene**: Use descriptive commit messages and maintain a clean branch history.
-
-## Example Commit Messages
-
-* `feat: initialize project with MUI and React Router`
-* `style: add fade-in animations and hover effects`
-* `fix: improve mobile drawer accessibility`
-* `feat: implement light/dark theme toggle`
-
 ## License
 
 © 2025 My Portfolio. All rights reserved.
