@@ -16,16 +16,10 @@ export default function Education() {
 
   const educationData = [
     {
-      degree: 'BSc Computer Science',
-      institution: 'University XYZ',
-      year: '2020-2024',
-      description: 'Graduated with honors, specializing in web development and software engineering.',
-    },
-    {
-      degree: 'High School Diploma',
-      institution: 'ABC High School',
-      year: '2016-2020',
-      description: 'Focused on mathematics and computer science, with extracurricular coding projects.',
+      degree: 'Bachelors of Sciences in Artificial Intelligence',
+      institution: 'Information Technology University of the Punjab',
+      year: '2023-2027',
+      description: 'Studying in the Bachelors of Science in Artificial Intelligence program (2023–2027) at Information Technology University of the Punjab.',
     },
   ];
 
