@@ -62,7 +62,7 @@ export default function Header({ toggleDrawer }) {
           />
           <Avatar
             alt="Profile"
-            src="/assets/avatar.jpg"
+            src="src/assets/profile.jpeg"
             onClick={handleMenu}
             sx={{ cursor: 'pointer', width: 40, height: 40 }}
             aria-label="Profile menu"
