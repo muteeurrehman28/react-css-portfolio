@@ -1,0 +1,34 @@
+:root {
+    --primary-color: #1976d2;
+    --secondary-color: #f50057;
+    --mobile-breakpoint: 768px;
+    --background-light: #f5f7fa;
+    --background-dark: #1a1a1a;
+    --text-light: #333;
+    --text-dark: #e0e0e0;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Roboto', 'Arial', sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .light {
+    background-color: var(--background-light);
+    color: var(--text-light);
+  }
+  
+  .dark {
+    background-color: var(--background-dark);
+    color: var(--text-dark);
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  .fade-in {
+    animation: fadeIn 0.5s ease-out;
+  }
