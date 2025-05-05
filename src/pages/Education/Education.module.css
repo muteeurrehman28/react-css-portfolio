@@ -1,0 +1,11 @@
+.education {
+    padding: 3rem;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  @media (max-width: 768px) {
+    .education {
+      padding: 2rem;
+    }
+  }
