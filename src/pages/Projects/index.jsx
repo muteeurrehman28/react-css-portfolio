@@ -20,19 +20,19 @@ export default function Projects() {
       title: 'E-Commerce Platform',
       description: 'A full-stack web application built with React, Node.js, and MongoDB.',
       link: '#',
-      image: '/assets/project1.jpg',
+      image: 'src/assets/project1.jpeg',
     },
     {
       title: 'Task Manager App',
       description: 'A mobile-friendly task management app using React Native and Firebase.',
       link: '#',
-      image: '/assets/project2.jpg',
+      image: 'src/assets/project2.jpeg',
     },
     {
       title: 'Portfolio Website',
       description: 'This responsive portfolio built with React and Material-UI.',
       link: '#',
-      image: '/assets/project3.jpg',
+      image: 'src/assets/project3.jpeg',
     },
   ];
 
