@@ -73,13 +73,13 @@ export default function Contact() {
           </Typography>
           <Divider sx={{ mb: 2 }} />
           <Typography variant="body1" sx={{ mb: 1 }}>
-            <strong>Email:</strong> example@portfolio.com
+            <strong>Email:</strong> bsai23005@itu.edu.pk
           </Typography>
           <Typography variant="body1" sx={{ mb: 1 }}>
-            <strong>Phone:</strong> (123) 456-7890
+            <strong>Phone:</strong> (+92) 307-6739250
           </Typography>
           <Typography variant="body1">
-            <strong>Location:</strong> New York, NY
+            <strong>Location:</strong> Lahore, Pakistan
           </Typography>
         </Grid>
       </Grid>
