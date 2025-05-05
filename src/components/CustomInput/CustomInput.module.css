@@ -1,0 +1,16 @@
+.input {
+    margin-bottom: 1.5rem;
+  }
+  
+  .input .MuiOutlinedInput-root {
+    border-radius: 8px;
+  }
+  
+  .input .MuiInputLabel-root {
+    font-weight: 500;
+    color: var(--text-light);
+  }
+  
+  .dark .input .MuiInputLabel-root {
+    color: var(--text-dark);
+  }
