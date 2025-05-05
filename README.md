@@ -16,16 +16,16 @@ A professional personal portfolio website built with React 18+, Material-UI v5+,
 
 ## Screenshots
 
-![Home Page](src/assets/Home_ss.jpg)
+![Home Page](src/assets/Home_ss.png)
 *Home Page*
 
-![Education Page](src/assets/Education_ss.jpg)
+![Education Page](src/assets/Education_ss.png)
 *Education Page*
 
-![Projects Page](src/assets/Projects_ss.jpg)
+![Projects Page](src/assets/Projects_ss.png)
 *Projects Page*
 
-![Contact Page](src/assets/Contact_ss.jpg)
+![Contact Page](src/assets/Contact_ss.png)
 *Contact Page*
 
 ## Installation
